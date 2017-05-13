@@ -1,28 +1,31 @@
 # Awesome Tesla [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 > A curated list of Tesla Model S and X.
 
-GitHub topic: [tesla](https://github.com/search?q=topic%3Atesla&s=stars)
+> GitHub topic is [tesla](https://github.com/search?q=topic%3Atesla&s=stars)
 
 ## Table of Contents
 
+- [Integrations](#integrations)
 - [Applications](#applications)
 - [Projects](#projects)
 - [API Wrappers](#api-wrappers)
 
+## Integrations
+
+- [tesla-slack](https://github.com/heikkipora/tesla-slack) - Slack
+- [alxea-tesla](https://github.com/mseminatore/alexa-tesla) - Amazon Echo
+- [tesla-voice](https://github.com/mattdy/tesla-voice) - Google Home
+- [tesla-siri-homekit](https://github.com/SamGabbay/tesla-siri-homekit) - Siri
+
 ## Applications
 
-- [rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) - An application for Apple Watch to control your Tesla Car.
-- [rnd-android-wear-tesla](https://github.com/eleks/rnd-android-wear-tesla) - Android Wear app prototype for controlling Tesla car.
-- [TeslaExtension](https://github.com/TrevorSStone/TeslaExtension) - Tesla Model S Chrome Extension.
-- [VisibleTesla](https://github.com/jpasqua/VisibleTesla) - Java App to monitor and Control the Tesla Model S.
-- [TeslaFTW](https://github.com/ErikDeBruijn/TeslaFTW) - Pebble v2.0 App to control your Tesla Model S/X.
+- [TeslaExtension](https://github.com/TrevorSStone/TeslaExtension) - Chrome Extension
+- [rnd-apple-watch-tesla](https://github.com/eleks/rnd-apple-watch-tesla) - Apple Watch
+- [rnd-android-wear-tesla](https://github.com/eleks/rnd-android-wear-tesla) - Android Wear
+- [TeslaFTW](https://github.com/ErikDeBruijn/TeslaFTW) - Pebble App
+- [VisibleTesla](https://github.com/jpasqua/VisibleTesla) - Java App
 
 ## Projects
-
-- [tesla-slack](https://github.com/heikkipora/tesla-slack) - Integrates your Tesla Model S/X fleet to Slack.
-- [alxea-tesla](https://github.com/mseminatore/alexa-tesla) - Tesla monitoring and control for Amazon Echo devices.
-- [tesla-siri-homekit](https://github.com/SamGabbay/tesla-siri-homekit) How to setup Siri to Control your Tesla.
-- [tesla-voice](https://github.com/mattdy/tesla-voice) - allow interacting with the Telsa API through Google Home.
 
 - [supercharges](https://github.com/wattapp/superchargers) - The GraphQL API for finding Tesla Superchargers, destination chargers, stores, and service centers.
 - [angular-tesla-range-calculator](https://github.com/toddmotto/angular-tesla-range-calculator) - Building Tesla's battery range calculator with Angular 2+ reactive forms.
@@ -31,12 +34,13 @@ GitHub topic: [tesla](https://github.com/search?q=topic%3Atesla&s=stars)
 
 ## API Wrappers
 
+- [Unofficial API documentation](http://docs.timdorr.apiary.io/#) 
 - [gutenye/tesla-api](https://github.com/gutenye/tesla-api) - Node
 - [mesminatore/TeslaJS](https://github.com/mseminatore/TeslaJS) - Node
 - [hjespers/teslams](https://github.com/hjespers/teslams) - Node
+- [jsgoecke/tesla](https://github.com/jsgoecke/tesla) - Go
 - [timdorr/model-s-api](https://github.com/timdorr/model-s-api) - Ruby
 - [gstark/tesla-api](https://github.com/gstark/tesla-api) - Ruby
-- [jsgoecke/tesla](https://github.com/jsgoecke/tesla) - Go
 - [gglockner/teslajson](https://github.com/gglockner/teslajson) - Python
 - [jonasman/TeslaSwift](https://github.com/jonasman/TeslaSwift) - Swift
 - [jpsqua/TeslaClient](https://github.com/jpasqua/TeslaClient) - Java
