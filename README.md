@@ -30,6 +30,7 @@
 - [supercharges](https://github.com/wattapp/superchargers) - The GraphQL API for finding Tesla Superchargers, destination chargers, stores, and service centers.
 - [angular-tesla-range-calculator](https://github.com/toddmotto/angular-tesla-range-calculator) - Building Tesla's battery range calculator with Angular 2+ reactive forms.
 - [tesla-features](https://github.com/sahin/tesla-features) - Tesla Feature Requests.
+- [TeslaMate](https://github.com/adriankumpf/teslamate) - A powerful, self-hosted data logger for your Tesla.
 - [teslamotors](https://github.com/uxpablo/teslamotors) - A javascript to select your favorite color for your Tesla car.
 
 ## API Wrappers
