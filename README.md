@@ -42,6 +42,7 @@
 - [jsgoecke/tesla](https://github.com/jsgoecke/tesla) - Go
 - [timdorr/model-s-api](https://github.com/timdorr/model-s-api) - Ruby
 - [gstark/tesla-api](https://github.com/gstark/tesla-api) - Ruby
+- [zmsp/python-my-tesla](https://github.com/zmsp/python-my-tesla) - Python
 - [gglockner/teslajson](https://github.com/gglockner/teslajson) - Python
 - [jonasman/TeslaSwift](https://github.com/jonasman/TeslaSwift) - Swift
 - [jpsqua/TeslaClient](https://github.com/jpasqua/TeslaClient) - Java
