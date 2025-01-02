@@ -13,7 +13,7 @@
 ## Integrations
 
 - [tesla-slack](https://github.com/heikkipora/tesla-slack) - Slack
-- [alxea-tesla](https://github.com/mseminatore/alexa-tesla) - Amazon Echo
+- [alexa-tesla](https://github.com/mseminatore/alexa-tesla) - Amazon Echo
 - [tesla-voice](https://github.com/mattdy/tesla-voice) - Google Home
 - [tesla-siri-homekit](https://github.com/SamGabbay/tesla-siri-homekit) - Siri
 
