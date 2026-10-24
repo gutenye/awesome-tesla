@@ -25,6 +25,7 @@
 - [TeslaFTW](https://github.com/ErikDeBruijn/TeslaFTW) - Pebble App
 - [VisibleTesla](https://github.com/jpasqua/VisibleTesla) - Java App
 - [TeslaChargePortOpener](https://github.com/fredilarsen/TeslaChargeDoorOpener) - Arduino sketch for opening the charge door by RF. Easy build.
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla wrap designer; core editing + PNG export free without account (optional AI credits).
 
 ## Projects
 
