@@ -26,6 +26,7 @@
 - [VisibleTesla](https://github.com/jpasqua/VisibleTesla) - Java App
 - [TeslaChargePortOpener](https://github.com/fredilarsen/TeslaChargeDoorOpener) - Arduino sketch for opening the charge door by RF. Easy build.
 - [TeslaWraps](https://teslawraps.design) - Browser Tesla wrap designer; core editing + PNG export free without account (optional AI credits).
+- [NEON MILES](https://neon-miles.higgsfield.app) - Free synthwave driving game for the Tesla in-car browser, driven by the car's real GPS speed.
 
 ## Projects
 
